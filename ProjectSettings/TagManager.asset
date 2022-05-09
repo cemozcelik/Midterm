@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - myCanvas
+  - myCanvas2
+  - myCanvas3
+  - myCanvas4
+  - myCanvas5
+  - myCanvas6
+  - myCanvas7
+  - myCanvas8
+  - myText
   layers:
   - Default
   - TransparentFX

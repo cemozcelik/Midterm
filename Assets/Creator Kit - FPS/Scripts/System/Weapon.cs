@@ -233,6 +233,11 @@ public class Weapon : MonoBehaviour
         }
     }
 
+    public void AmmoTake(int ammo)
+    {
+        m_ClipContent += ammo;
+
+    }
 
     void RaycastShot()
     {
